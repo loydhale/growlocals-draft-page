@@ -6,7 +6,7 @@ Built using the landing-page-conversion-framework process.
 
 **Audience:** Small/local business owners and operators who rely on phone calls, website inquiries, reviews, appointments, quote requests, consultations, or follow-up to create revenue.
 
-**Traffic intent:** Warm/referral/manual outreach first; later paid/social traffic. The visitor likely understands they miss opportunities but may not know or trust AI yet.
+**Visitor mindset:** Warm/referral/manual outreach first; later ads/social may be used. Do not assume the buyer thinks in terms of “traffic,” “buying leads,” or marketing funnels. Some are advertising and some are not. They understand calls, website visitors, messages, quote requests, appointments, reviews, and customers.
 
 **Primary conversion:** Start the 14-day trial with card required. Secondary conversion: watch demo / understand what gets installed.
 
@@ -14,9 +14,9 @@ Built using the landing-page-conversion-framework process.
 
 **End-of-trial goal:** The customer’s core system is set up, tested, and optimized around how their business handles customers.
 
-**Mechanism:** A done-for-you response layer that catches demand after it arrives: Voice AI, Conversation AI, Review AI, business knowledge base, routing rules, and human support. The system turns missed calls, website questions, review opportunities, and slow follow-up into captured opportunities.
+**Mechanism:** A done-for-you AI employee / response layer that catches customer interest after it shows up: Voice AI, Conversation AI, Review AI, business knowledge base, routing rules, and human support. The system turns calls, website questions, review opportunities, quote requests, and slow follow-up into captured opportunities.
 
-**Primary pain:** Local businesses spend effort getting attention, but leak revenue after customers reach out: missed calls, unanswered questions, slow response, quote friction, no review request, overloaded staff.
+**Primary pain:** Local businesses already get some level of customer interest — calls, clicks, messages, website visits, referrals, quote requests, and happy customers — but too much of it is not captured or followed up well because the team is busy.
 
 **Proof available:** 300+ small businesses using AI software; 10+ years owning/operating local businesses; $70M+ business growth experience; ClickFunnels/podcast credibility if approved.
 
@@ -30,23 +30,23 @@ Built using the landing-page-conversion-framework process.
 
 ## Page strategy
 
-The page should not feel like a generic SaaS page. It should feel like a clear operator-built offer for local businesses that are leaking demand. The page’s job is to make the buyer think:
+The page should not feel like a generic SaaS page or a marketing-agency page. It should feel like a clear operator-built offer for local businesses that want to maximize the interest they already get. The page’s job is to make the buyer think:
 
-> “This is exactly where we lose money, and they’ll set it up for us.”
+> “People already call, visit, ask questions, and leave happy. This helps us turn more of that into customers, and they set it up for us.”
 
 ## Core hook
 
-**Before you buy more leads, stop losing the ones already trying to reach you.**
+**Turn more of the interest you already get into real customers.**
 
 ## Hero promise
 
-GrowLocals.ai installs a done-for-you AI response layer that captures missed calls, website questions, quote requests, bookings, and review opportunities — so more interested customers make it to the next step.
+GrowLocals.ai gives local businesses an AI employee they do not have to hire, train, or set up — helping answer calls, capture website questions, collect quote requests, support bookings, route handoffs, and request reviews so more existing customer interest turns into revenue.
 
 ## Page sections
 
 1. Header / badge
-2. Hero: stop losing existing demand
-3. Leak map: where local businesses lose customers
+2. Hero: maximize existing customer interest
+3. Leak map: where interest gets missed or under-followed-up
 4. Mechanism visual: one response layer, three AI systems, four outcomes
 5. What gets installed: Voice AI / Conversation AI / Review AI / knowledge base / support
 6. Outcome paths: book, quote, route, review
@@ -63,7 +63,7 @@ Premium local-growth SaaS. Use images to explain mechanism, not decoration. Whit
 ## Copy principles
 
 - Say “more customers/opportunities” over narrow “booking only.”
-- Sell “response layer” and “done-for-you setup,” not software features.
+- Sell “AI employee / response layer” and “done-for-you setup,” not software features.
 - Make book/quote/route explicit.
 - Avoid public backend/vendor names.
 - Keep pricing and terms clear.
