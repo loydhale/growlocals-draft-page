@@ -1,0 +1,6 @@
+<svg viewBox="0 0 550 770" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GrowLocals.ai pin mark</title>
+  <desc id="desc">White GrowLocals location pin with transparent background, extracted from supplied AI-agent standalone page thumbnail.</desc>
+  <path fill="#FFFFFF" d="M275 0C123 0 0 119 0 266c0 192 275 504 275 504s275-312 275-504C550 119 427 0 275 0z"/>
+  <circle cx="275" cy="266" r="103" fill="#2563EB"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GrowLocals.ai">
+  <rect width="64" height="64" rx="14" fill="#2563EB"/>
+  <path fill="#FFFFFF" d="M32 10C20.8 10 12 18.8 12 29.7 12 43.9 32 61 32 61s20-17.1 20-31.3C52 18.8 43.2 10 32 10z"/>
+  <circle cx="32" cy="30" r="7.5" fill="#2563EB"/>
+</svg>
